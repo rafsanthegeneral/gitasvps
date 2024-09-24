@@ -33,4 +33,4 @@ jobs:
     #     flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Run your code
       run: |
-        python sqlmap.py -r hosts\test.txt --level=5 --risk=3 --dbms=MySQL --batch y
+        python sqlmap.py -r hosts/test.txt --level=5 --risk=3 --dbms=MySQL --batch y
